@@ -1,0 +1,7 @@
+name: EventListeners
+version: '1.0-SNAPSHOT'
+main: me.stephenmcode.eventListeners.EventListeners
+api-version: '1.21'
+authors: [ StephenMCode ]
+description: Working with simple event listeners
+website: https://github.com/StephenMCode

@@ -14,6 +14,7 @@ public class ShearSheepListener implements Listener {
 
         Player player = event.getPlayer();
         Entity entity = event.getEntity();
+
         EntityType entityType = entity.getType();
         String entityName = entityType.name();
         entityName = entityName.substring(0, 1).toUpperCase() + entityName.substring(1).toLowerCase();

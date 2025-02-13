@@ -8,7 +8,6 @@ public final class EventListeners extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
 
         System.out.println("StephenMCode's plugin has started");
 
